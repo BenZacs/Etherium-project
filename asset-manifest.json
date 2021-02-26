@@ -1,15 +1,23 @@
 {
-  "main.css": "/Etherium-project/static/css/main.e84f9e67.chunk.css",
-  "main.js": "/Etherium-project/static/js/main.daf114f4.chunk.js",
-  "main.js.map": "/Etherium-project/static/js/main.daf114f4.chunk.js.map",
-  "static/css/1.9eee5513.chunk.css": "/Etherium-project/static/css/1.9eee5513.chunk.css",
-  "static/js/1.7cceb9e4.chunk.js": "/Etherium-project/static/js/1.7cceb9e4.chunk.js",
-  "static/js/1.7cceb9e4.chunk.js.map": "/Etherium-project/static/js/1.7cceb9e4.chunk.js.map",
-  "runtime~main.js": "/Etherium-project/static/js/runtime~main.334df813.js",
-  "runtime~main.js.map": "/Etherium-project/static/js/runtime~main.334df813.js.map",
-  "static/css/main.e84f9e67.chunk.css.map": "/Etherium-project/static/css/main.e84f9e67.chunk.css.map",
-  "static/css/1.9eee5513.chunk.css.map": "/Etherium-project/static/css/1.9eee5513.chunk.css.map",
-  "index.html": "/Etherium-project/index.html",
-  "precache-manifest.8292202c69cf57c105c99330d864b189.js": "/Etherium-project/precache-manifest.8292202c69cf57c105c99330d864b189.js",
-  "service-worker.js": "/Etherium-project/service-worker.js"
+  "files": {
+    "main.css": "/Etherium-project/static/css/main.51c15129.chunk.css",
+    "main.js": "/Etherium-project/static/js/main.babbd2f1.chunk.js",
+    "main.js.map": "/Etherium-project/static/js/main.babbd2f1.chunk.js.map",
+    "runtime-main.js": "/Etherium-project/static/js/runtime-main.0e1131ff.js",
+    "runtime-main.js.map": "/Etherium-project/static/js/runtime-main.0e1131ff.js.map",
+    "static/css/2.f5543f5b.chunk.css": "/Etherium-project/static/css/2.f5543f5b.chunk.css",
+    "static/js/2.1e18b1b8.chunk.js": "/Etherium-project/static/js/2.1e18b1b8.chunk.js",
+    "static/js/2.1e18b1b8.chunk.js.map": "/Etherium-project/static/js/2.1e18b1b8.chunk.js.map",
+    "index.html": "/Etherium-project/index.html",
+    "static/css/2.f5543f5b.chunk.css.map": "/Etherium-project/static/css/2.f5543f5b.chunk.css.map",
+    "static/css/main.51c15129.chunk.css.map": "/Etherium-project/static/css/main.51c15129.chunk.css.map",
+    "static/js/2.1e18b1b8.chunk.js.LICENSE.txt": "/Etherium-project/static/js/2.1e18b1b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e1131ff.js",
+    "static/css/2.f5543f5b.chunk.css",
+    "static/js/2.1e18b1b8.chunk.js",
+    "static/css/main.51c15129.chunk.css",
+    "static/js/main.babbd2f1.chunk.js"
+  ]
 }
